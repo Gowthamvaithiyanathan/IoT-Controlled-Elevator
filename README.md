@@ -1,2 +1,3 @@
 # IoT-Controlled-Elevator
-A project in the field of Robotics which is IOT controlled. It is a group project where a 3-DOF manipulator is controlled with the help of Arduino board and by writing a appropriate code in Arduino cloud software for a desired application
+Mechatronics System-Elevator (08/2023 - 08/2023)
+A project in the field of Mechatronics which is IOT controlled. In this project I first developed a simple mechanical prototype of an elevator and then included motor for electrical control. In the end integrated both using devices such as Arduino board, Motor driver and Sensors for automatic control(IOT)
